@@ -1,0 +1,3522 @@
+[
+  {
+    "question": "Why do businesses study law?",
+    "choices": [
+      "To understand how to challenge laws",
+      "To minimize tax obligations",
+      "To identify, evaluate, and respond to legal risks",
+      "To train employees in courtroom procedures"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "Which of the following best represents the risk shifting strategy?",
+    "choices": [
+      "Ignoring the risk",
+      "Buying insurance to transfer the risk",
+      "Transferring employees to new roles",
+      "Accepting legal liability for actions"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What is a characteristic of civil law jurisdictions?",
+    "choices": [
+      "Originates from England",
+      "Precedent plays a central role",
+      "Based on comprehensive codes",
+      "Limited to federal law only"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "Which provinces or regions in Canada follow civil law?",
+    "choices": [
+      "Ontario and Manitoba",
+      "British Columbia and Alberta",
+      "Quebec and Louisiana",
+      "Saskatchewan and Newfoundland"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What is the highest source of law in Canada?",
+    "choices": [
+      "Supreme Court precedents",
+      "The Criminal Code",
+      "The Constitution",
+      "Provincial statutes"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "Which government level handles civil rights?",
+    "choices": [
+      "Federal",
+      "Municipal",
+      "Provincial",
+      "Executive"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "Which right is protected under the Charter of Rights and Freedoms?",
+    "choices": [
+      "Right to a private trial",
+      "Freedom of taxation",
+      "Mobility rights",
+      "Right to financial assistance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What is subordinate legislation?",
+    "choices": [
+      "Legislation passed by courts",
+      "Case law with less authority",
+      "Rules made under the authority of statutes",
+      "Royal decrees"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What is the primary function of courts?",
+    "choices": [
+      "Make new laws",
+      "Execute administrative policies",
+      "Interpret and apply laws",
+      "Consult legislative assemblies"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What is the historical origin of common law?",
+    "choices": [
+      "Roman Empire",
+      "French Revolution",
+      "English legal tradition",
+      "Canadian Confederation"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What distinguishes legislation from case law?",
+    "choices": [
+      "Legislation is optional to follow",
+      "Legislation is made by the courts",
+      "Legislation is created by elected bodies",
+      "Legislation is less authoritative than case law"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What is risk acceptance?",
+    "choices": [
+      "Ignoring risk entirely",
+      "Living with the risk and doing nothing",
+      "Buying liability insurance",
+      "Delegating responsibility"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "The Constitution is difficult to amend because:",
+    "choices": [
+      "It changes automatically with social trends",
+      "Only the Supreme Court can amend it",
+      "It requires significant political consensus",
+      "It must be approved by all provincial premiers"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What are the two main legal systems in Canada?",
+    "choices": [
+      "Statutory and Regulatory",
+      "Civil and Common Law",
+      "Administrative and Civil",
+      "Case and Customary Law"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What does 'jurisdiction' refer to in legal terms?",
+    "choices": [
+      "The type of trial",
+      "Geographical area a legal system applies",
+      "Whether criminal or civil",
+      "Legal priority in courts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What is the purpose of the Charter of Rights and Freedoms?",
+    "choices": [
+      "To define provincial powers",
+      "To allow judges to make law",
+      "To protect individual freedoms",
+      "To authorize elections"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "Subordinate legislation is typically created by:",
+    "choices": [
+      "The Governor General",
+      "Private companies",
+      "Bodies authorized by legislature",
+      "Supreme Court of Canada"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "Which of the following is a statutory law?",
+    "choices": [
+      "Charter of Rights",
+      "A provincial regulation",
+      "An Act passed by Parliament",
+      "A court ruling"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "What is the three-step risk management process for businesses?",
+    "choices": [
+      "Avoidance, Consultation, Policy",
+      "Identification, Evaluation, Response",
+      "Research, Lawyering, Compliance",
+      "Consultation, Delegation, Enforcement"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "Equity in law refers to:",
+    "choices": [
+      "Strict rule enforcement",
+      "A separate set of rules emphasizing fairness",
+      "Corporate law standards",
+      "Federal-only jurisdiction"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 1"
+  },
+  {
+    "question": "A Power of Attorney is valid:",
+    "choices": [
+      "Only after death",
+      "Only with court approval",
+      "Only while the person granting it is alive",
+      "Only in real estate transactions"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "Who is the attorney in a Power of Attorney?",
+    "choices": [
+      "The lawyer",
+      "The person witnessing the signing",
+      "The person given authority",
+      "A court-appointed official"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "At what age can someone grant a POAPC in Ontario?",
+    "choices": [
+      "21",
+      "18",
+      "16",
+      "Any age with consent"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "What is the purpose of a Last Will and Testament?",
+    "choices": [
+      "To assign legal guardians",
+      "To authorize medical procedures",
+      "To cover distribution of property after death",
+      "To manage property during life"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "How many witnesses are typically required for a valid POA document in Ontario?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "What is the legal age to grant a general Power of Attorney in Ontario?",
+    "choices": [
+      "14",
+      "16",
+      "18",
+      "21"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "The person making the Power of Attorney is called the:",
+    "choices": [
+      "Attorney",
+      "Grantor",
+      "Witness",
+      "Executor"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "When does a Power of Attorney end?",
+    "choices": [
+      "At retirement",
+      "Upon revocation",
+      "Upon the grantor's death",
+      "When revoked or the grantor dies"
+    ],
+    "answer": 3,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "A Last Will and Testament takes effect:",
+    "choices": [
+      "When signed",
+      "When submitted to court",
+      "After death",
+      "When notarized"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "If someone dies without a will, their estate is distributed:",
+    "choices": [
+      "By their Power of Attorney",
+      "By their executor",
+      "By the court under intestacy rules",
+      "By family vote"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "A POAPC applies to decisions about:",
+    "choices": [
+      "Business operations",
+      "Funeral arrangements",
+      "Personal care",
+      "Property transfers after death"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "The person responsible for executing the terms of a will is called the:",
+    "choices": [
+      "Attorney",
+      "Beneficiary",
+      "Trustee",
+      "Executor"
+    ],
+    "answer": 3,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "What is the main legal difference between a will and a power of attorney?",
+    "choices": [
+      "Only a will is notarized",
+      "A POA is invalid after death; a will takes effect after death",
+      "Only POA applies to children",
+      "Wills are not legally binding"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "What happens if a person becomes incapable and has no POA?",
+    "choices": [
+      "They are deported",
+      "A public guardian may be appointed",
+      "Their executor steps in",
+      "Their spouse takes over automatically"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "To be valid, a POA must be:",
+    "choices": [
+      "Filed in court",
+      "Notarized and sent to the CRA",
+      "Signed with two adult witnesses",
+      "Written and stored digitally"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "A Power of Attorney for Property covers:",
+    "choices": [
+      "Healthcare only",
+      "Property and financial decisions",
+      "Guardianship issues",
+      "Court appeals"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "What document gives someone authority to act during incapacity?",
+    "choices": [
+      "Birth certificate",
+      "POA",
+      "Will",
+      "Court order"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "An attorney under a POA must:",
+    "choices": [
+      "Be a lawyer",
+      "Act in the best interest of the grantor",
+      "Be financially independent",
+      "Have medical training"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "Can multiple people be named as attorneys?",
+    "choices": [
+      "No",
+      "Only with court approval",
+      "Yes, acting jointly or separately",
+      "Only if family"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "A POA ends automatically upon:",
+    "choices": [
+      "The grantor's recovery",
+      "The attorney's resignation",
+      "The grantor's death",
+      "The attorney moving provinces"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 2"
+  },
+  {
+    "question": "A tort is best described as:",
+    "choices": [
+      "A breach of a public obligation",
+      "A criminal charge",
+      "A private wrong not based on a contract",
+      "A statutory duty"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "A tortfeasor is:",
+    "choices": [
+      "A party who resolves disputes",
+      "A victim of contract breach",
+      "A person who commits a tort",
+      "A judge in a civil case"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "The primary function of tort law is to:",
+    "choices": [
+      "Provide criminal sanctions",
+      "Enforce contract rights",
+      "Compensate victims and deter private wrongs",
+      "Regulate corporations"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Tort law is based on:",
+    "choices": [
+      "Statutory law only",
+      "Agreements between parties",
+      "Obligations imposed by law, not consent",
+      "Moral persuasion"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "In both tort and contract law, secondary obligations typically involve:",
+    "choices": [
+      "Performing the contract",
+      "Apologizing in public",
+      "Paying compensatory damages",
+      "Avoiding government penalties"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Intentional torts involve:",
+    "choices": [
+      "Mere carelessness",
+      "Actions taken with deliberate purpose",
+      "Accidental damage",
+      "Failure to pay debts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "A negligence tort occurs when a person:",
+    "choices": [
+      "Plans to harm another",
+      "Acts reasonably under pressure",
+      "Acts carelessly or without due regard",
+      "Is falsely accused"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Strict liability torts impose liability:",
+    "choices": [
+      "Only if intent is proven",
+      "Based on criminal charges",
+      "Without regard to intention or carelessness",
+      "On government officials only"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Strict liability torts are generally:",
+    "choices": [
+      "Common in all disputes",
+      "Based on criminal code",
+      "Rare and limited to highly dangerous activities",
+      "Used for contract breaches"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Liability insurance is used in tort law to:",
+    "choices": [
+      "Increase profits",
+      "Transfer tort risk and enhance compensation",
+      "Avoid all litigation",
+      "Cover criminal charges"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "One limitation of liability insurance in tort law is that it:",
+    "choices": [
+      "Encourages excessive litigation",
+      "Undermines the deterrence function",
+      "Always leads to punitive damages",
+      "Prevents any settlement"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Vicarious liability refers to:",
+    "choices": [
+      "Liability for one's own intentional acts",
+      "Employer liability for employee torts",
+      "Government immunity",
+      "Strict liability in contracts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Vicarious liability is justified because it:",
+    "choices": [
+      "Lowers taxes",
+      "Shifts liability to customers",
+      "Ensures businesses bear the cost of their operations",
+      "Eliminates employee liability"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Which of the following limits vicarious liability?",
+    "choices": [
+      "Employee acting within scope of employment",
+      "Employee acting as instructed",
+      "Tort committed outside scope of employment",
+      "Employee working under contract"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Independent contractors typically do not trigger vicarious liability because:",
+    "choices": [
+      "They are unpaid",
+      "Their duties are undefined",
+      "They are not controlled by the hiring business",
+      "They have personal insurance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "The greater the control a business exercises over a contractor, the more likely:",
+    "choices": [
+      "The contractor will sue the client",
+      "The contractor becomes an employee in law",
+      "The contractor owes fiduciary duties",
+      "The contractor cannot be liable"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "If an employee injures someone on duty, the victim can:",
+    "choices": [
+      "Only sue the employee",
+      "Only sue the corporation",
+      "Sue both the employee and employer",
+      "Seek criminal sanctions"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "When an employer is directly liable in tort, it\u2019s usually because:",
+    "choices": [
+      "The employee committed fraud",
+      "The employer committed its own negligent act",
+      "The employee used company property",
+      "The employer denied coverage"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Compensatory damages in tort aim to:",
+    "choices": [
+      "Enrich the victim",
+      "Punish the defendant",
+      "Put the plaintiff in the position they would be in if the tort hadn\u2019t happened",
+      "Reflect market trends"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "Mitigation in tort law means:",
+    "choices": [
+      "The court reduces damages by half",
+      "The plaintiff must take reasonable steps to reduce losses",
+      "The defendant admits fault",
+      "Insurance pays automatically"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 3"
+  },
+  {
+    "question": "What distinguishes an intentional tort from negligence?",
+    "choices": [
+      "It results in a criminal charge",
+      "It involves a failure to act",
+      "It is based on a deliberate action",
+      "It requires expert testimony"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "Which of the following best describes assault in tort law?",
+    "choices": [
+      "Any physical contact",
+      "Physical contact with a weapon",
+      "Creating the belief of imminent offensive contact",
+      "Threats made from a distance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "Battery involves:",
+    "choices": [
+      "Psychological harm only",
+      "Accidental physical contact",
+      "Offensive bodily contact",
+      "Threats of future harm"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "What distinguishes battery from assault?",
+    "choices": [
+      "Battery is limited to verbal threats",
+      "Assault requires actual injury",
+      "Battery involves contact; assault does not",
+      "Assault is punishable by imprisonment"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "Which of the following is NOT a required element of assault?",
+    "choices": [
+      "Imminent threat",
+      "Actual physical contact",
+      "Reasonable belief of threat",
+      "Intentional act"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "A person is confined within a building and told they cannot leave, despite no physical restraint. What tort may this represent?",
+    "choices": [
+      "Assault",
+      "Defamation",
+      "False imprisonment",
+      "Nuisance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "Which of the following could result in a tort of malicious prosecution?",
+    "choices": [
+      "Filing a criminal report with reasonable grounds",
+      "A lawsuit filed without evidence and with improper motive",
+      "Terminating an employee",
+      "Criticizing a rival politician"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "A landowner installs a security camera aimed at a neighbour\u2019s window. What tort may apply?",
+    "choices": [
+      "Assault",
+      "Intrusion upon seclusion",
+      "Nuisance",
+      "Conversion"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "The tort of trespass to land involves:",
+    "choices": [
+      "Causing economic loss to another person\u2019s property",
+      "Any entry or interference with land without permission",
+      "Misusing confidential information",
+      "Abusing government authority"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "Which of the following best defines conversion?",
+    "choices": [
+      "Taking temporary custody of someone\u2019s goods",
+      "Interfering with goods in a trivial way",
+      "Serious interference justifying a forced sale",
+      "Borrowing something and returning it late"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "A person refuses to return a laptop they borrowed. Which tort might this involve?",
+    "choices": [
+      "Battery",
+      "Detinue",
+      "Assault",
+      "Slander of quality"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "What is an available remedy for a tort involving chattels?",
+    "choices": [
+      "Suspension of property tax",
+      "Recaption",
+      "Quiet enjoyment",
+      "Eviction"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "A patient consents to surgery. What defence might the doctor raise if a tort is alleged?",
+    "choices": [
+      "Self-defence",
+      "Legal necessity",
+      "Consent",
+      "Third-party protection"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "Which of the following best reflects self-defence as a justification?",
+    "choices": [
+      "Using force in response to offensive speech",
+      "Using reasonable force to protect oneself from violence",
+      "Preventing trespass with a firearm",
+      "Protecting one\u2019s land using any means"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "Which defence is NOT generally available when protecting property?",
+    "choices": [
+      "Reasonable force",
+      "Use of lethal force for property alone",
+      "Warning signs",
+      "Use of legal mechanisms to evict"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "The defence of necessity applies when:",
+    "choices": [
+      "The plaintiff agreed to all risks",
+      "The defendant was acting under contract",
+      "An emergency justifies otherwise wrongful conduct",
+      "The defendant acted on mistaken identity"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "What is an example of contributory negligence in intentional torts?",
+    "choices": [
+      "Plaintiff\u2019s recklessness contributed to their injury",
+      "Plaintiff failed to pay a debt",
+      "Defendant was provoked",
+      "Defendant acted under duress"
+    ],
+    "answer": 0,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "What is the main limitation of using provocation as a defence?",
+    "choices": [
+      "It results in automatic dismissal",
+      "It is a full defence",
+      "It only reduces damages",
+      "It only applies in criminal law"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "What does 'offensive' mean in the context of battery?",
+    "choices": [
+      "Criminally punishable",
+      "Illegal under all circumstances",
+      "Unwelcome or inappropriate, even if not harmful",
+      "Must involve visible injury"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "A person breaks a window to rescue a child trapped in a hot car. What defence might they raise?",
+    "choices": [
+      "Provocation",
+      "Necessity",
+      "Consent",
+      "Duress"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 4"
+  },
+  {
+    "question": "What distinguishes business torts from traditional intentional torts?",
+    "choices": [
+      "Business torts don\u2019t involve intention",
+      "Business torts do not require actual damage",
+      "Business torts require both intention and resulting economic harm",
+      "Business torts are always criminal"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Which of the following best describes conspiracy in business torts?",
+    "choices": [
+      "Two or more persons planning a crime",
+      "One person interfering with a contract",
+      "An agreement to cause financial harm to a third party",
+      "Publishing false information"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "The tort of intimidation involves:",
+    "choices": [
+      "Threatening to harm someone\u2019s reputation",
+      "Using legal action to enforce payment",
+      "Causing loss by threatening an unlawful act",
+      "Refusing to do business with a competitor"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Interference with contractual relations requires:",
+    "choices": [
+      "Physical harm",
+      "A void contract",
+      "Disruption of an existing valid contract",
+      "Use of confidential information"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "What makes a claim valid under unlawful interference with economic relations?",
+    "choices": [
+      "The defendant acted negligently",
+      "The defendant relied on competition law",
+      "The defendant committed an unlawful act to cause loss",
+      "The contract had expired"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "The tort of deceit requires all of the following EXCEPT:",
+    "choices": [
+      "A false statement",
+      "Intent to mislead",
+      "Physical harm to the plaintiff",
+      "Plaintiff\u2019s reliance and loss"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "What is a key difference between deceit and negligent misrepresentation?",
+    "choices": [
+      "Only deceit involves contracts",
+      "Deceit requires intent; negligent misrepresentation does not",
+      "Negligence is never actionable",
+      "Deceit cannot occur in business contexts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Which element is NOT required to prove deceit?",
+    "choices": [
+      "Defendant intended to mislead",
+      "Plaintiff\u2019s reliance was reasonable",
+      "The statement was true",
+      "The statement caused a loss"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Which of the following is defamation?",
+    "choices": [
+      "Truthful but damaging business review",
+      "Opinion about a politician\u2019s performance",
+      "A false statement that lowers someone's reputation",
+      "Disagreement over pricing"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Absolute privilege protects statements made:",
+    "choices": [
+      "With public interest in mind",
+      "With reckless disregard for truth",
+      "During legislative or judicial proceedings",
+      "In corporate board meetings"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Qualified privilege protects statements made:",
+    "choices": [
+      "For profit only",
+      "Between friends",
+      "When there\u2019s a duty to speak to someone with similar interest",
+      "By anyone with a platform"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "A journalist publishes an informed, fair opinion on a controversial issue. What defence applies?",
+    "choices": [
+      "Qualified privilege",
+      "Fair comment",
+      "Malice",
+      "Deceit"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Which of the following would likely be protected by qualified privilege?",
+    "choices": [
+      "A gossip blog post",
+      "A manager\u2019s job reference",
+      "A satirical cartoon",
+      "A parody song"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Injurious falsehood refers to:",
+    "choices": [
+      "Attacking a person\u2019s private life",
+      "Publishing true but embarrassing facts",
+      "Spreading false statements about property or business",
+      "Statements made in a courtroom"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Slander of title means:",
+    "choices": [
+      "Claiming someone forged a contract",
+      "Falsely stating someone doesn\u2019t own land",
+      "Criticizing a competitor\u2019s price",
+      "Disparaging someone's credentials"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Slander of quality occurs when a defendant:",
+    "choices": [
+      "Misleads about product availability",
+      "Falsely claims another\u2019s products are inferior",
+      "Files a false police report",
+      "Sells counterfeit goods"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Saying 'Don\u2019t buy from them, their products are poison' with no evidence could result in:",
+    "choices": [
+      "Slander of quality",
+      "Fair comment",
+      "Qualified privilege",
+      "Justification"
+    ],
+    "answer": 0,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Which of the following is NOT a defence to defamation?",
+    "choices": [
+      "Justification",
+      "Absolute privilege",
+      "Fair comment",
+      "Honest mistake"
+    ],
+    "answer": 3,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "The tort of nuisance occurs when:",
+    "choices": [
+      "Privacy is invaded",
+      "Chattels are interfered with",
+      "Land use is unreasonably disturbed",
+      "Contracts are breached"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "Which of the following is required to prove nuisance?",
+    "choices": [
+      "Malicious intent",
+      "Unlawful entry",
+      "Unreasonable interference with land use",
+      "A violation of copyright"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 5"
+  },
+  {
+    "question": "What is the primary basis of liability in negligence?",
+    "choices": [
+      "Criminal intent",
+      "Breach of contract",
+      "Carelessness causing injury",
+      "Intention to deceive"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "A duty of care exists when:",
+    "choices": [
+      "The defendant is a government body",
+      "The plaintiff is a family member",
+      "It is reasonable to expect the defendant to avoid causing harm",
+      "The harm is criminal in nature"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "What does the standard of care refer to?",
+    "choices": [
+      "The cost of legal representation",
+      "The level of care an average person would use",
+      "The intent of the defendant",
+      "The damages available to the plaintiff"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "The thin skull rule means:",
+    "choices": [
+      "Liability is limited if the plaintiff has pre-existing conditions",
+      "Pre-existing conditions are excluded",
+      "Defendants must take plaintiffs as they are",
+      "Only physical injuries count"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "Which of the following is NOT part of proving negligence?",
+    "choices": [
+      "Duty of care",
+      "Fraudulent intent",
+      "Breach of duty",
+      "Damage caused by the breach"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "An intervening act may affect a negligence case by:",
+    "choices": [
+      "Eliminating the plaintiff\u2019s standing",
+      "Breaking the chain of causation",
+      "Making the standard of care higher",
+      "Strengthening the defendant\u2019s liability"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "A plaintiff\u2019s own carelessness contributing to their injury is called:",
+    "choices": [
+      "Vicarious liability",
+      "Joint liability",
+      "Contributory negligence",
+      "Assumption of risk"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "What is the consequence of contributory negligence?",
+    "choices": [
+      "The case is dismissed",
+      "Damages may be reduced",
+      "The plaintiff is fully liable",
+      "The defendant goes to jail"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "What does voluntary assumption of risk require?",
+    "choices": [
+      "The plaintiff anticipated damage to their reputation",
+      "The plaintiff signed a waiver",
+      "The plaintiff knowingly accepted both physical and legal risks",
+      "The defendant warned the plaintiff"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "A fan hit by a puck at a hockey game may be prevented from suing under:",
+    "choices": [
+      "Thin skull rule",
+      "Vicarious liability",
+      "Voluntary assumption of risk",
+      "Strict liability"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "Which of the following would most likely create a duty of care?",
+    "choices": [
+      "A random passerby",
+      "A neighbor mowing your lawn",
+      "A store owner inviting customers onto their property",
+      "A celebrity posting on social media"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "The standard of care may vary depending on:",
+    "choices": [
+      "The defendant\u2019s financial resources",
+      "Whether the plaintiff has a lawyer",
+      "The circumstances of the activity",
+      "The popularity of the defendant"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "Negligence focuses on:",
+    "choices": [
+      "Malicious intent",
+      "A written agreement",
+      "Failure to act reasonably",
+      "Violation of a statute"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "If the plaintiff is engaging in an illegal activity during the injury, this might invoke which doctrine?",
+    "choices": [
+      "Vicarious liability",
+      "Illegality",
+      "Estoppel",
+      "Res ipsa loquitur"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "Why might a negligence claim fail due to remoteness?",
+    "choices": [
+      "The harm was unforeseeable",
+      "The defendant acted reasonably",
+      "The damage was fully covered by insurance",
+      "The claim was filed too late"
+    ],
+    "answer": 0,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "What is required to show causation in negligence?",
+    "choices": [
+      "The plaintiff relied on a promise",
+      "The breach directly caused the injury",
+      "The contract was breached",
+      "The defendant committed a tort in the past"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "If someone is injured by a third party after a defendant\u2019s carelessness, what legal concept applies?",
+    "choices": [
+      "Contributory negligence",
+      "Strict liability",
+      "Intervening act",
+      "Vicarious liability"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "A professional is held to a higher standard of care because:",
+    "choices": [
+      "They usually earn more",
+      "Courts assume intent to harm",
+      "They have special training and responsibilities",
+      "They must act as judges"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "A plaintiff who ignored safety warnings and got hurt may face what defence?",
+    "choices": [
+      "Illegality",
+      "Consent",
+      "Voluntary assumption of risk",
+      "Breach of contract"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "In negligence, damages are awarded primarily to:",
+    "choices": [
+      "Deter future misconduct",
+      "Compensate for harm suffered",
+      "Punish the defendant",
+      "Reward legal compliance"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 6"
+  },
+  {
+    "question": "Why do businesses study law?",
+    "choices": [
+      "To understand how to challenge laws",
+      "To minimize tax obligations",
+      "To identify, evaluate, and respond to legal risks",
+      "To train employees in courtroom procedures"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "Which of the following best represents the risk shifting strategy?",
+    "choices": [
+      "Ignoring the risk",
+      "Buying insurance to transfer the risk",
+      "Transferring employees to new roles",
+      "Accepting legal liability for actions"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What is a characteristic of civil law jurisdictions?",
+    "choices": [
+      "Originates from England",
+      "Precedent plays a central role",
+      "Based on comprehensive codes",
+      "Limited to federal law only"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "Which provinces or regions in Canada follow civil law?",
+    "choices": [
+      "Ontario and Manitoba",
+      "British Columbia and Alberta",
+      "Quebec and Louisiana",
+      "Saskatchewan and Newfoundland"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What is the highest source of law in Canada?",
+    "choices": [
+      "Supreme Court precedents",
+      "The Criminal Code",
+      "The Constitution",
+      "Provincial statutes"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "Which government level handles civil rights?",
+    "choices": [
+      "Federal",
+      "Municipal",
+      "Provincial",
+      "Executive"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "Which right is protected under the Charter of Rights and Freedoms?",
+    "choices": [
+      "Right to a private trial",
+      "Freedom of taxation",
+      "Mobility rights",
+      "Right to financial assistance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What is subordinate legislation?",
+    "choices": [
+      "Legislation passed by courts",
+      "Case law with less authority",
+      "Rules made under the authority of statutes",
+      "Royal decrees"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What is the primary function of courts?",
+    "choices": [
+      "Make new laws",
+      "Execute administrative policies",
+      "Interpret and apply laws",
+      "Consult legislative assemblies"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What is the historical origin of common law?",
+    "choices": [
+      "Roman Empire",
+      "French Revolution",
+      "English legal tradition",
+      "Canadian Confederation"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What distinguishes legislation from case law?",
+    "choices": [
+      "Legislation is optional to follow",
+      "Legislation is made by the courts",
+      "Legislation is created by elected bodies",
+      "Legislation is less authoritative than case law"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What is risk acceptance?",
+    "choices": [
+      "Ignoring risk entirely",
+      "Living with the risk and doing nothing",
+      "Buying liability insurance",
+      "Delegating responsibility"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "The Constitution is difficult to amend because:",
+    "choices": [
+      "It changes automatically with social trends",
+      "Only the Supreme Court can amend it",
+      "It requires significant political consensus",
+      "It must be approved by all provincial premiers"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What are the two main legal systems in Canada?",
+    "choices": [
+      "Statutory and Regulatory",
+      "Civil and Common Law",
+      "Administrative and Civil",
+      "Case and Customary Law"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What does 'jurisdiction' refer to in legal terms?",
+    "choices": [
+      "The type of trial",
+      "Geographical area a legal system applies",
+      "Whether criminal or civil",
+      "Legal priority in courts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What is the purpose of the Charter of Rights and Freedoms?",
+    "choices": [
+      "To define provincial powers",
+      "To allow judges to make law",
+      "To protect individual freedoms",
+      "To authorize elections"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "Subordinate legislation is typically created by:",
+    "choices": [
+      "The Governor General",
+      "Private companies",
+      "Bodies authorized by legislature",
+      "Supreme Court of Canada"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "Which of the following is a statutory law?",
+    "choices": [
+      "Charter of Rights",
+      "A provincial regulation",
+      "An Act passed by Parliament",
+      "A court ruling"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "What is the three-step risk management process for businesses?",
+    "choices": [
+      "Avoidance, Consultation, Policy",
+      "Identification, Evaluation, Response",
+      "Research, Lawyering, Compliance",
+      "Consultation, Delegation, Enforcement"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "Equity in law refers to:",
+    "choices": [
+      "Strict rule enforcement",
+      "A separate set of rules emphasizing fairness",
+      "Corporate law standards",
+      "Federal-only jurisdiction"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 7"
+  },
+  {
+    "question": "A Power of Attorney is valid:",
+    "choices": [
+      "Only after death",
+      "Only with court approval",
+      "Only while the person granting it is alive",
+      "Only in real estate transactions"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "Who is the attorney in a Power of Attorney?",
+    "choices": [
+      "The lawyer",
+      "The person witnessing the signing",
+      "The person given authority",
+      "A court-appointed official"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "At what age can someone grant a POAPC in Ontario?",
+    "choices": [
+      "21",
+      "18",
+      "16",
+      "Any age with consent"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "What is the purpose of a Last Will and Testament?",
+    "choices": [
+      "To assign legal guardians",
+      "To authorize medical procedures",
+      "To cover distribution of property after death",
+      "To manage property during life"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "How many witnesses are typically required for a valid POA document in Ontario?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "What is the legal age to grant a general Power of Attorney in Ontario?",
+    "choices": [
+      "14",
+      "16",
+      "18",
+      "21"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "The person making the Power of Attorney is called the:",
+    "choices": [
+      "Attorney",
+      "Grantor",
+      "Witness",
+      "Executor"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "When does a Power of Attorney end?",
+    "choices": [
+      "At retirement",
+      "Upon revocation",
+      "Upon the grantor's death",
+      "When revoked or the grantor dies"
+    ],
+    "answer": 3,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "A Last Will and Testament takes effect:",
+    "choices": [
+      "When signed",
+      "When submitted to court",
+      "After death",
+      "When notarized"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "If someone dies without a will, their estate is distributed:",
+    "choices": [
+      "By their Power of Attorney",
+      "By their executor",
+      "By the court under intestacy rules",
+      "By family vote"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "A POAPC applies to decisions about:",
+    "choices": [
+      "Business operations",
+      "Funeral arrangements",
+      "Personal care",
+      "Property transfers after death"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "The person responsible for executing the terms of a will is called the:",
+    "choices": [
+      "Attorney",
+      "Beneficiary",
+      "Trustee",
+      "Executor"
+    ],
+    "answer": 3,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "What is the main legal difference between a will and a power of attorney?",
+    "choices": [
+      "Only a will is notarized",
+      "A POA is invalid after death; a will takes effect after death",
+      "Only POA applies to children",
+      "Wills are not legally binding"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "What happens if a person becomes incapable and has no POA?",
+    "choices": [
+      "They are deported",
+      "A public guardian may be appointed",
+      "Their executor steps in",
+      "Their spouse takes over automatically"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "To be valid, a POA must be:",
+    "choices": [
+      "Filed in court",
+      "Notarized and sent to the CRA",
+      "Signed with two adult witnesses",
+      "Written and stored digitally"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "A Power of Attorney for Property covers:",
+    "choices": [
+      "Healthcare only",
+      "Property and financial decisions",
+      "Guardianship issues",
+      "Court appeals"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "What document gives someone authority to act during incapacity?",
+    "choices": [
+      "Birth certificate",
+      "POA",
+      "Will",
+      "Court order"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "An attorney under a POA must:",
+    "choices": [
+      "Be a lawyer",
+      "Act in the best interest of the grantor",
+      "Be financially independent",
+      "Have medical training"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "Can multiple people be named as attorneys?",
+    "choices": [
+      "No",
+      "Only with court approval",
+      "Yes, acting jointly or separately",
+      "Only if family"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "A POA ends automatically upon:",
+    "choices": [
+      "The grantor's recovery",
+      "The attorney's resignation",
+      "The grantor's death",
+      "The attorney moving provinces"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 8"
+  },
+  {
+    "question": "A tort is best described as:",
+    "choices": [
+      "A breach of a public obligation",
+      "A criminal charge",
+      "A private wrong not based on a contract",
+      "A statutory duty"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "A tortfeasor is:",
+    "choices": [
+      "A party who resolves disputes",
+      "A victim of contract breach",
+      "A person who commits a tort",
+      "A judge in a civil case"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "The primary function of tort law is to:",
+    "choices": [
+      "Provide criminal sanctions",
+      "Enforce contract rights",
+      "Compensate victims and deter private wrongs",
+      "Regulate corporations"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Tort law is based on:",
+    "choices": [
+      "Statutory law only",
+      "Agreements between parties",
+      "Obligations imposed by law, not consent",
+      "Moral persuasion"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "In both tort and contract law, secondary obligations typically involve:",
+    "choices": [
+      "Performing the contract",
+      "Apologizing in public",
+      "Paying compensatory damages",
+      "Avoiding government penalties"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Intentional torts involve:",
+    "choices": [
+      "Mere carelessness",
+      "Actions taken with deliberate purpose",
+      "Accidental damage",
+      "Failure to pay debts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "A negligence tort occurs when a person:",
+    "choices": [
+      "Plans to harm another",
+      "Acts reasonably under pressure",
+      "Acts carelessly or without due regard",
+      "Is falsely accused"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Strict liability torts impose liability:",
+    "choices": [
+      "Only if intent is proven",
+      "Based on criminal charges",
+      "Without regard to intention or carelessness",
+      "On government officials only"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Strict liability torts are generally:",
+    "choices": [
+      "Common in all disputes",
+      "Based on criminal code",
+      "Rare and limited to highly dangerous activities",
+      "Used for contract breaches"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Liability insurance is used in tort law to:",
+    "choices": [
+      "Increase profits",
+      "Transfer tort risk and enhance compensation",
+      "Avoid all litigation",
+      "Cover criminal charges"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "One limitation of liability insurance in tort law is that it:",
+    "choices": [
+      "Encourages excessive litigation",
+      "Undermines the deterrence function",
+      "Always leads to punitive damages",
+      "Prevents any settlement"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Vicarious liability refers to:",
+    "choices": [
+      "Liability for one's own intentional acts",
+      "Employer liability for employee torts",
+      "Government immunity",
+      "Strict liability in contracts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Vicarious liability is justified because it:",
+    "choices": [
+      "Lowers taxes",
+      "Shifts liability to customers",
+      "Ensures businesses bear the cost of their operations",
+      "Eliminates employee liability"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Which of the following limits vicarious liability?",
+    "choices": [
+      "Employee acting within scope of employment",
+      "Employee acting as instructed",
+      "Tort committed outside scope of employment",
+      "Employee working under contract"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Independent contractors typically do not trigger vicarious liability because:",
+    "choices": [
+      "They are unpaid",
+      "Their duties are undefined",
+      "They are not controlled by the hiring business",
+      "They have personal insurance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "The greater the control a business exercises over a contractor, the more likely:",
+    "choices": [
+      "The contractor will sue the client",
+      "The contractor becomes an employee in law",
+      "The contractor owes fiduciary duties",
+      "The contractor cannot be liable"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "If an employee injures someone on duty, the victim can:",
+    "choices": [
+      "Only sue the employee",
+      "Only sue the corporation",
+      "Sue both the employee and employer",
+      "Seek criminal sanctions"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "When an employer is directly liable in tort, it\u2019s usually because:",
+    "choices": [
+      "The employee committed fraud",
+      "The employer committed its own negligent act",
+      "The employee used company property",
+      "The employer denied coverage"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Compensatory damages in tort aim to:",
+    "choices": [
+      "Enrich the victim",
+      "Punish the defendant",
+      "Put the plaintiff in the position they would be in if the tort hadn\u2019t happened",
+      "Reflect market trends"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "Mitigation in tort law means:",
+    "choices": [
+      "The court reduces damages by half",
+      "The plaintiff must take reasonable steps to reduce losses",
+      "The defendant admits fault",
+      "Insurance pays automatically"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 9"
+  },
+  {
+    "question": "What distinguishes an intentional tort from negligence?",
+    "choices": [
+      "It results in a criminal charge",
+      "It involves a failure to act",
+      "It is based on a deliberate action",
+      "It requires expert testimony"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "Which of the following best describes assault in tort law?",
+    "choices": [
+      "Any physical contact",
+      "Physical contact with a weapon",
+      "Creating the belief of imminent offensive contact",
+      "Threats made from a distance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "Battery involves:",
+    "choices": [
+      "Psychological harm only",
+      "Accidental physical contact",
+      "Offensive bodily contact",
+      "Threats of future harm"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "What distinguishes battery from assault?",
+    "choices": [
+      "Battery is limited to verbal threats",
+      "Assault requires actual injury",
+      "Battery involves contact; assault does not",
+      "Assault is punishable by imprisonment"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "Which of the following is NOT a required element of assault?",
+    "choices": [
+      "Imminent threat",
+      "Actual physical contact",
+      "Reasonable belief of threat",
+      "Intentional act"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "A person is confined within a building and told they cannot leave, despite no physical restraint. What tort may this represent?",
+    "choices": [
+      "Assault",
+      "Defamation",
+      "False imprisonment",
+      "Nuisance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "Which of the following could result in a tort of malicious prosecution?",
+    "choices": [
+      "Filing a criminal report with reasonable grounds",
+      "A lawsuit filed without evidence and with improper motive",
+      "Terminating an employee",
+      "Criticizing a rival politician"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "A landowner installs a security camera aimed at a neighbour\u2019s window. What tort may apply?",
+    "choices": [
+      "Assault",
+      "Intrusion upon seclusion",
+      "Nuisance",
+      "Conversion"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "The tort of trespass to land involves:",
+    "choices": [
+      "Causing economic loss to another person\u2019s property",
+      "Any entry or interference with land without permission",
+      "Misusing confidential information",
+      "Abusing government authority"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "Which of the following best defines conversion?",
+    "choices": [
+      "Taking temporary custody of someone\u2019s goods",
+      "Interfering with goods in a trivial way",
+      "Serious interference justifying a forced sale",
+      "Borrowing something and returning it late"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "A person refuses to return a laptop they borrowed. Which tort might this involve?",
+    "choices": [
+      "Battery",
+      "Detinue",
+      "Assault",
+      "Slander of quality"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "What is an available remedy for a tort involving chattels?",
+    "choices": [
+      "Suspension of property tax",
+      "Recaption",
+      "Quiet enjoyment",
+      "Eviction"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "A patient consents to surgery. What defence might the doctor raise if a tort is alleged?",
+    "choices": [
+      "Self-defence",
+      "Legal necessity",
+      "Consent",
+      "Third-party protection"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "Which of the following best reflects self-defence as a justification?",
+    "choices": [
+      "Using force in response to offensive speech",
+      "Using reasonable force to protect oneself from violence",
+      "Preventing trespass with a firearm",
+      "Protecting one\u2019s land using any means"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "Which defence is NOT generally available when protecting property?",
+    "choices": [
+      "Reasonable force",
+      "Use of lethal force for property alone",
+      "Warning signs",
+      "Use of legal mechanisms to evict"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "The defence of necessity applies when:",
+    "choices": [
+      "The plaintiff agreed to all risks",
+      "The defendant was acting under contract",
+      "An emergency justifies otherwise wrongful conduct",
+      "The defendant acted on mistaken identity"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "What is an example of contributory negligence in intentional torts?",
+    "choices": [
+      "Plaintiff\u2019s recklessness contributed to their injury",
+      "Plaintiff failed to pay a debt",
+      "Defendant was provoked",
+      "Defendant acted under duress"
+    ],
+    "answer": 0,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "What is the main limitation of using provocation as a defence?",
+    "choices": [
+      "It results in automatic dismissal",
+      "It is a full defence",
+      "It only reduces damages",
+      "It only applies in criminal law"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "What does 'offensive' mean in the context of battery?",
+    "choices": [
+      "Criminally punishable",
+      "Illegal under all circumstances",
+      "Unwelcome or inappropriate, even if not harmful",
+      "Must involve visible injury"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "A person breaks a window to rescue a child trapped in a hot car. What defence might they raise?",
+    "choices": [
+      "Provocation",
+      "Necessity",
+      "Consent",
+      "Duress"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 10"
+  },
+  {
+    "question": "What distinguishes business torts from traditional intentional torts?",
+    "choices": [
+      "Business torts don\u2019t involve intention",
+      "Business torts do not require actual damage",
+      "Business torts require both intention and resulting economic harm",
+      "Business torts are always criminal"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Which of the following best describes conspiracy in business torts?",
+    "choices": [
+      "Two or more persons planning a crime",
+      "One person interfering with a contract",
+      "An agreement to cause financial harm to a third party",
+      "Publishing false information"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "The tort of intimidation involves:",
+    "choices": [
+      "Threatening to harm someone\u2019s reputation",
+      "Using legal action to enforce payment",
+      "Causing loss by threatening an unlawful act",
+      "Refusing to do business with a competitor"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Interference with contractual relations requires:",
+    "choices": [
+      "Physical harm",
+      "A void contract",
+      "Disruption of an existing valid contract",
+      "Use of confidential information"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "What makes a claim valid under unlawful interference with economic relations?",
+    "choices": [
+      "The defendant acted negligently",
+      "The defendant relied on competition law",
+      "The defendant committed an unlawful act to cause loss",
+      "The contract had expired"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "The tort of deceit requires all of the following EXCEPT:",
+    "choices": [
+      "A false statement",
+      "Intent to mislead",
+      "Physical harm to the plaintiff",
+      "Plaintiff\u2019s reliance and loss"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "What is a key difference between deceit and negligent misrepresentation?",
+    "choices": [
+      "Only deceit involves contracts",
+      "Deceit requires intent; negligent misrepresentation does not",
+      "Negligence is never actionable",
+      "Deceit cannot occur in business contexts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Which element is NOT required to prove deceit?",
+    "choices": [
+      "Defendant intended to mislead",
+      "Plaintiff\u2019s reliance was reasonable",
+      "The statement was true",
+      "The statement caused a loss"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Which of the following is defamation?",
+    "choices": [
+      "Truthful but damaging business review",
+      "Opinion about a politician\u2019s performance",
+      "A false statement that lowers someone's reputation",
+      "Disagreement over pricing"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Absolute privilege protects statements made:",
+    "choices": [
+      "With public interest in mind",
+      "With reckless disregard for truth",
+      "During legislative or judicial proceedings",
+      "In corporate board meetings"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Qualified privilege protects statements made:",
+    "choices": [
+      "For profit only",
+      "Between friends",
+      "When there\u2019s a duty to speak to someone with similar interest",
+      "By anyone with a platform"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "A journalist publishes an informed, fair opinion on a controversial issue. What defence applies?",
+    "choices": [
+      "Qualified privilege",
+      "Fair comment",
+      "Malice",
+      "Deceit"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Which of the following would likely be protected by qualified privilege?",
+    "choices": [
+      "A gossip blog post",
+      "A manager\u2019s job reference",
+      "A satirical cartoon",
+      "A parody song"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Injurious falsehood refers to:",
+    "choices": [
+      "Attacking a person\u2019s private life",
+      "Publishing true but embarrassing facts",
+      "Spreading false statements about property or business",
+      "Statements made in a courtroom"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Slander of title means:",
+    "choices": [
+      "Claiming someone forged a contract",
+      "Falsely stating someone doesn\u2019t own land",
+      "Criticizing a competitor\u2019s price",
+      "Disparaging someone's credentials"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Slander of quality occurs when a defendant:",
+    "choices": [
+      "Misleads about product availability",
+      "Falsely claims another\u2019s products are inferior",
+      "Files a false police report",
+      "Sells counterfeit goods"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Saying 'Don\u2019t buy from them, their products are poison' with no evidence could result in:",
+    "choices": [
+      "Slander of quality",
+      "Fair comment",
+      "Qualified privilege",
+      "Justification"
+    ],
+    "answer": 0,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Which of the following is NOT a defence to defamation?",
+    "choices": [
+      "Justification",
+      "Absolute privilege",
+      "Fair comment",
+      "Honest mistake"
+    ],
+    "answer": 3,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "The tort of nuisance occurs when:",
+    "choices": [
+      "Privacy is invaded",
+      "Chattels are interfered with",
+      "Land use is unreasonably disturbed",
+      "Contracts are breached"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "Which of the following is required to prove nuisance?",
+    "choices": [
+      "Malicious intent",
+      "Unlawful entry",
+      "Unreasonable interference with land use",
+      "A violation of copyright"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 11"
+  },
+  {
+    "question": "What is the primary basis of liability in negligence?",
+    "choices": [
+      "Criminal intent",
+      "Breach of contract",
+      "Carelessness causing injury",
+      "Intention to deceive"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "A duty of care exists when:",
+    "choices": [
+      "The defendant is a government body",
+      "The plaintiff is a family member",
+      "It is reasonable to expect the defendant to avoid causing harm",
+      "The harm is criminal in nature"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "What does the standard of care refer to?",
+    "choices": [
+      "The cost of legal representation",
+      "The level of care an average person would use",
+      "The intent of the defendant",
+      "The damages available to the plaintiff"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "The thin skull rule means:",
+    "choices": [
+      "Liability is limited if the plaintiff has pre-existing conditions",
+      "Pre-existing conditions are excluded",
+      "Defendants must take plaintiffs as they are",
+      "Only physical injuries count"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "Which of the following is NOT part of proving negligence?",
+    "choices": [
+      "Duty of care",
+      "Fraudulent intent",
+      "Breach of duty",
+      "Damage caused by the breach"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "An intervening act may affect a negligence case by:",
+    "choices": [
+      "Eliminating the plaintiff\u2019s standing",
+      "Breaking the chain of causation",
+      "Making the standard of care higher",
+      "Strengthening the defendant\u2019s liability"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "A plaintiff\u2019s own carelessness contributing to their injury is called:",
+    "choices": [
+      "Vicarious liability",
+      "Joint liability",
+      "Contributory negligence",
+      "Assumption of risk"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "What is the consequence of contributory negligence?",
+    "choices": [
+      "The case is dismissed",
+      "Damages may be reduced",
+      "The plaintiff is fully liable",
+      "The defendant goes to jail"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "What does voluntary assumption of risk require?",
+    "choices": [
+      "The plaintiff anticipated damage to their reputation",
+      "The plaintiff signed a waiver",
+      "The plaintiff knowingly accepted both physical and legal risks",
+      "The defendant warned the plaintiff"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "A fan hit by a puck at a hockey game may be prevented from suing under:",
+    "choices": [
+      "Thin skull rule",
+      "Vicarious liability",
+      "Voluntary assumption of risk",
+      "Strict liability"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "Which of the following would most likely create a duty of care?",
+    "choices": [
+      "A random passerby",
+      "A neighbor mowing your lawn",
+      "A store owner inviting customers onto their property",
+      "A celebrity posting on social media"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "The standard of care may vary depending on:",
+    "choices": [
+      "The defendant\u2019s financial resources",
+      "Whether the plaintiff has a lawyer",
+      "The circumstances of the activity",
+      "The popularity of the defendant"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "Negligence focuses on:",
+    "choices": [
+      "Malicious intent",
+      "A written agreement",
+      "Failure to act reasonably",
+      "Violation of a statute"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "If the plaintiff is engaging in an illegal activity during the injury, this might invoke which doctrine?",
+    "choices": [
+      "Vicarious liability",
+      "Illegality",
+      "Estoppel",
+      "Res ipsa loquitur"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "Why might a negligence claim fail due to remoteness?",
+    "choices": [
+      "The harm was unforeseeable",
+      "The defendant acted reasonably",
+      "The damage was fully covered by insurance",
+      "The claim was filed too late"
+    ],
+    "answer": 0,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "What is required to show causation in negligence?",
+    "choices": [
+      "The plaintiff relied on a promise",
+      "The breach directly caused the injury",
+      "The contract was breached",
+      "The defendant committed a tort in the past"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "If someone is injured by a third party after a defendant\u2019s carelessness, what legal concept applies?",
+    "choices": [
+      "Contributory negligence",
+      "Strict liability",
+      "Intervening act",
+      "Vicarious liability"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "A professional is held to a higher standard of care because:",
+    "choices": [
+      "They usually earn more",
+      "Courts assume intent to harm",
+      "They have special training and responsibilities",
+      "They must act as judges"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "A plaintiff who ignored safety warnings and got hurt may face what defence?",
+    "choices": [
+      "Illegality",
+      "Consent",
+      "Voluntary assumption of risk",
+      "Breach of contract"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "In negligence, damages are awarded primarily to:",
+    "choices": [
+      "Deter future misconduct",
+      "Compensate for harm suffered",
+      "Punish the defendant",
+      "Reward legal compliance"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 12"
+  },
+  {
+    "question": "Why do businesses study law?",
+    "choices": [
+      "To understand how to challenge laws",
+      "To minimize tax obligations",
+      "To identify, evaluate, and respond to legal risks",
+      "To train employees in courtroom procedures"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "Which of the following best represents the risk shifting strategy?",
+    "choices": [
+      "Ignoring the risk",
+      "Buying insurance to transfer the risk",
+      "Transferring employees to new roles",
+      "Accepting legal liability for actions"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What is a characteristic of civil law jurisdictions?",
+    "choices": [
+      "Originates from England",
+      "Precedent plays a central role",
+      "Based on comprehensive codes",
+      "Limited to federal law only"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "Which provinces or regions in Canada follow civil law?",
+    "choices": [
+      "Ontario and Manitoba",
+      "British Columbia and Alberta",
+      "Quebec and Louisiana",
+      "Saskatchewan and Newfoundland"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What is the highest source of law in Canada?",
+    "choices": [
+      "Supreme Court precedents",
+      "The Criminal Code",
+      "The Constitution",
+      "Provincial statutes"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "Which government level handles civil rights?",
+    "choices": [
+      "Federal",
+      "Municipal",
+      "Provincial",
+      "Executive"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "Which right is protected under the Charter of Rights and Freedoms?",
+    "choices": [
+      "Right to a private trial",
+      "Freedom of taxation",
+      "Mobility rights",
+      "Right to financial assistance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What is subordinate legislation?",
+    "choices": [
+      "Legislation passed by courts",
+      "Case law with less authority",
+      "Rules made under the authority of statutes",
+      "Royal decrees"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What is the primary function of courts?",
+    "choices": [
+      "Make new laws",
+      "Execute administrative policies",
+      "Interpret and apply laws",
+      "Consult legislative assemblies"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What is the historical origin of common law?",
+    "choices": [
+      "Roman Empire",
+      "French Revolution",
+      "English legal tradition",
+      "Canadian Confederation"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What distinguishes legislation from case law?",
+    "choices": [
+      "Legislation is optional to follow",
+      "Legislation is made by the courts",
+      "Legislation is created by elected bodies",
+      "Legislation is less authoritative than case law"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What is risk acceptance?",
+    "choices": [
+      "Ignoring risk entirely",
+      "Living with the risk and doing nothing",
+      "Buying liability insurance",
+      "Delegating responsibility"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "The Constitution is difficult to amend because:",
+    "choices": [
+      "It changes automatically with social trends",
+      "Only the Supreme Court can amend it",
+      "It requires significant political consensus",
+      "It must be approved by all provincial premiers"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What are the two main legal systems in Canada?",
+    "choices": [
+      "Statutory and Regulatory",
+      "Civil and Common Law",
+      "Administrative and Civil",
+      "Case and Customary Law"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What does 'jurisdiction' refer to in legal terms?",
+    "choices": [
+      "The type of trial",
+      "Geographical area a legal system applies",
+      "Whether criminal or civil",
+      "Legal priority in courts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What is the purpose of the Charter of Rights and Freedoms?",
+    "choices": [
+      "To define provincial powers",
+      "To allow judges to make law",
+      "To protect individual freedoms",
+      "To authorize elections"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "Subordinate legislation is typically created by:",
+    "choices": [
+      "The Governor General",
+      "Private companies",
+      "Bodies authorized by legislature",
+      "Supreme Court of Canada"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "Which of the following is a statutory law?",
+    "choices": [
+      "Charter of Rights",
+      "A provincial regulation",
+      "An Act passed by Parliament",
+      "A court ruling"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "What is the three-step risk management process for businesses?",
+    "choices": [
+      "Avoidance, Consultation, Policy",
+      "Identification, Evaluation, Response",
+      "Research, Lawyering, Compliance",
+      "Consultation, Delegation, Enforcement"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "Equity in law refers to:",
+    "choices": [
+      "Strict rule enforcement",
+      "A separate set of rules emphasizing fairness",
+      "Corporate law standards",
+      "Federal-only jurisdiction"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 20"
+  },
+  {
+    "question": "A Power of Attorney is valid:",
+    "choices": [
+      "Only after death",
+      "Only with court approval",
+      "Only while the person granting it is alive",
+      "Only in real estate transactions"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "Who is the attorney in a Power of Attorney?",
+    "choices": [
+      "The lawyer",
+      "The person witnessing the signing",
+      "The person given authority",
+      "A court-appointed official"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "At what age can someone grant a POAPC in Ontario?",
+    "choices": [
+      "21",
+      "18",
+      "16",
+      "Any age with consent"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "What is the purpose of a Last Will and Testament?",
+    "choices": [
+      "To assign legal guardians",
+      "To authorize medical procedures",
+      "To cover distribution of property after death",
+      "To manage property during life"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "How many witnesses are typically required for a valid POA document in Ontario?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "What is the legal age to grant a general Power of Attorney in Ontario?",
+    "choices": [
+      "14",
+      "16",
+      "18",
+      "21"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "The person making the Power of Attorney is called the:",
+    "choices": [
+      "Attorney",
+      "Grantor",
+      "Witness",
+      "Executor"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "When does a Power of Attorney end?",
+    "choices": [
+      "At retirement",
+      "Upon revocation",
+      "Upon the grantor's death",
+      "When revoked or the grantor dies"
+    ],
+    "answer": 3,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "A Last Will and Testament takes effect:",
+    "choices": [
+      "When signed",
+      "When submitted to court",
+      "After death",
+      "When notarized"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "If someone dies without a will, their estate is distributed:",
+    "choices": [
+      "By their Power of Attorney",
+      "By their executor",
+      "By the court under intestacy rules",
+      "By family vote"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "A POAPC applies to decisions about:",
+    "choices": [
+      "Business operations",
+      "Funeral arrangements",
+      "Personal care",
+      "Property transfers after death"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "The person responsible for executing the terms of a will is called the:",
+    "choices": [
+      "Attorney",
+      "Beneficiary",
+      "Trustee",
+      "Executor"
+    ],
+    "answer": 3,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "What is the main legal difference between a will and a power of attorney?",
+    "choices": [
+      "Only a will is notarized",
+      "A POA is invalid after death; a will takes effect after death",
+      "Only POA applies to children",
+      "Wills are not legally binding"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "What happens if a person becomes incapable and has no POA?",
+    "choices": [
+      "They are deported",
+      "A public guardian may be appointed",
+      "Their executor steps in",
+      "Their spouse takes over automatically"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "To be valid, a POA must be:",
+    "choices": [
+      "Filed in court",
+      "Notarized and sent to the CRA",
+      "Signed with two adult witnesses",
+      "Written and stored digitally"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "A Power of Attorney for Property covers:",
+    "choices": [
+      "Healthcare only",
+      "Property and financial decisions",
+      "Guardianship issues",
+      "Court appeals"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "What document gives someone authority to act during incapacity?",
+    "choices": [
+      "Birth certificate",
+      "POA",
+      "Will",
+      "Court order"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "An attorney under a POA must:",
+    "choices": [
+      "Be a lawyer",
+      "Act in the best interest of the grantor",
+      "Be financially independent",
+      "Have medical training"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "Can multiple people be named as attorneys?",
+    "choices": [
+      "No",
+      "Only with court approval",
+      "Yes, acting jointly or separately",
+      "Only if family"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "A POA ends automatically upon:",
+    "choices": [
+      "The grantor's recovery",
+      "The attorney's resignation",
+      "The grantor's death",
+      "The attorney moving provinces"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 21"
+  },
+  {
+    "question": "A tort is best described as:",
+    "choices": [
+      "A breach of a public obligation",
+      "A criminal charge",
+      "A private wrong not based on a contract",
+      "A statutory duty"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "A tortfeasor is:",
+    "choices": [
+      "A party who resolves disputes",
+      "A victim of contract breach",
+      "A person who commits a tort",
+      "A judge in a civil case"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "The primary function of tort law is to:",
+    "choices": [
+      "Provide criminal sanctions",
+      "Enforce contract rights",
+      "Compensate victims and deter private wrongs",
+      "Regulate corporations"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Tort law is based on:",
+    "choices": [
+      "Statutory law only",
+      "Agreements between parties",
+      "Obligations imposed by law, not consent",
+      "Moral persuasion"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "In both tort and contract law, secondary obligations typically involve:",
+    "choices": [
+      "Performing the contract",
+      "Apologizing in public",
+      "Paying compensatory damages",
+      "Avoiding government penalties"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Intentional torts involve:",
+    "choices": [
+      "Mere carelessness",
+      "Actions taken with deliberate purpose",
+      "Accidental damage",
+      "Failure to pay debts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "A negligence tort occurs when a person:",
+    "choices": [
+      "Plans to harm another",
+      "Acts reasonably under pressure",
+      "Acts carelessly or without due regard",
+      "Is falsely accused"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Strict liability torts impose liability:",
+    "choices": [
+      "Only if intent is proven",
+      "Based on criminal charges",
+      "Without regard to intention or carelessness",
+      "On government officials only"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Strict liability torts are generally:",
+    "choices": [
+      "Common in all disputes",
+      "Based on criminal code",
+      "Rare and limited to highly dangerous activities",
+      "Used for contract breaches"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Liability insurance is used in tort law to:",
+    "choices": [
+      "Increase profits",
+      "Transfer tort risk and enhance compensation",
+      "Avoid all litigation",
+      "Cover criminal charges"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "One limitation of liability insurance in tort law is that it:",
+    "choices": [
+      "Encourages excessive litigation",
+      "Undermines the deterrence function",
+      "Always leads to punitive damages",
+      "Prevents any settlement"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Vicarious liability refers to:",
+    "choices": [
+      "Liability for one's own intentional acts",
+      "Employer liability for employee torts",
+      "Government immunity",
+      "Strict liability in contracts"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Vicarious liability is justified because it:",
+    "choices": [
+      "Lowers taxes",
+      "Shifts liability to customers",
+      "Ensures businesses bear the cost of their operations",
+      "Eliminates employee liability"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Which of the following limits vicarious liability?",
+    "choices": [
+      "Employee acting within scope of employment",
+      "Employee acting as instructed",
+      "Tort committed outside scope of employment",
+      "Employee working under contract"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Independent contractors typically do not trigger vicarious liability because:",
+    "choices": [
+      "They are unpaid",
+      "Their duties are undefined",
+      "They are not controlled by the hiring business",
+      "They have personal insurance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "The greater the control a business exercises over a contractor, the more likely:",
+    "choices": [
+      "The contractor will sue the client",
+      "The contractor becomes an employee in law",
+      "The contractor owes fiduciary duties",
+      "The contractor cannot be liable"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "If an employee injures someone on duty, the victim can:",
+    "choices": [
+      "Only sue the employee",
+      "Only sue the corporation",
+      "Sue both the employee and employer",
+      "Seek criminal sanctions"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "When an employer is directly liable in tort, it\u2019s usually because:",
+    "choices": [
+      "The employee committed fraud",
+      "The employer committed its own negligent act",
+      "The employee used company property",
+      "The employer denied coverage"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Compensatory damages in tort aim to:",
+    "choices": [
+      "Enrich the victim",
+      "Punish the defendant",
+      "Put the plaintiff in the position they would be in if the tort hadn\u2019t happened",
+      "Reflect market trends"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "Mitigation in tort law means:",
+    "choices": [
+      "The court reduces damages by half",
+      "The plaintiff must take reasonable steps to reduce losses",
+      "The defendant admits fault",
+      "Insurance pays automatically"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 22"
+  },
+  {
+    "question": "What distinguishes an intentional tort from negligence?",
+    "choices": [
+      "It results in a criminal charge",
+      "It involves a failure to act",
+      "It is based on a deliberate action",
+      "It requires expert testimony"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "Which of the following best describes assault in tort law?",
+    "choices": [
+      "Any physical contact",
+      "Physical contact with a weapon",
+      "Creating the belief of imminent offensive contact",
+      "Threats made from a distance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "Battery involves:",
+    "choices": [
+      "Psychological harm only",
+      "Accidental physical contact",
+      "Offensive bodily contact",
+      "Threats of future harm"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "What distinguishes battery from assault?",
+    "choices": [
+      "Battery is limited to verbal threats",
+      "Assault requires actual injury",
+      "Battery involves contact; assault does not",
+      "Assault is punishable by imprisonment"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "Which of the following is NOT a required element of assault?",
+    "choices": [
+      "Imminent threat",
+      "Actual physical contact",
+      "Reasonable belief of threat",
+      "Intentional act"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "A person is confined within a building and told they cannot leave, despite no physical restraint. What tort may this represent?",
+    "choices": [
+      "Assault",
+      "Defamation",
+      "False imprisonment",
+      "Nuisance"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "Which of the following could result in a tort of malicious prosecution?",
+    "choices": [
+      "Filing a criminal report with reasonable grounds",
+      "A lawsuit filed without evidence and with improper motive",
+      "Terminating an employee",
+      "Criticizing a rival politician"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "A landowner installs a security camera aimed at a neighbour\u2019s window. What tort may apply?",
+    "choices": [
+      "Assault",
+      "Intrusion upon seclusion",
+      "Nuisance",
+      "Conversion"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "The tort of trespass to land involves:",
+    "choices": [
+      "Causing economic loss to another person\u2019s property",
+      "Any entry or interference with land without permission",
+      "Misusing confidential information",
+      "Abusing government authority"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "Which of the following best defines conversion?",
+    "choices": [
+      "Taking temporary custody of someone\u2019s goods",
+      "Interfering with goods in a trivial way",
+      "Serious interference justifying a forced sale",
+      "Borrowing something and returning it late"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "A person refuses to return a laptop they borrowed. Which tort might this involve?",
+    "choices": [
+      "Battery",
+      "Detinue",
+      "Assault",
+      "Slander of quality"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "What is an available remedy for a tort involving chattels?",
+    "choices": [
+      "Suspension of property tax",
+      "Recaption",
+      "Quiet enjoyment",
+      "Eviction"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "A patient consents to surgery. What defence might the doctor raise if a tort is alleged?",
+    "choices": [
+      "Self-defence",
+      "Legal necessity",
+      "Consent",
+      "Third-party protection"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "Which of the following best reflects self-defence as a justification?",
+    "choices": [
+      "Using force in response to offensive speech",
+      "Using reasonable force to protect oneself from violence",
+      "Preventing trespass with a firearm",
+      "Protecting one\u2019s land using any means"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "Which defence is NOT generally available when protecting property?",
+    "choices": [
+      "Reasonable force",
+      "Use of lethal force for property alone",
+      "Warning signs",
+      "Use of legal mechanisms to evict"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "The defence of necessity applies when:",
+    "choices": [
+      "The plaintiff agreed to all risks",
+      "The defendant was acting under contract",
+      "An emergency justifies otherwise wrongful conduct",
+      "The defendant acted on mistaken identity"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "What is an example of contributory negligence in intentional torts?",
+    "choices": [
+      "Plaintiff\u2019s recklessness contributed to their injury",
+      "Plaintiff failed to pay a debt",
+      "Defendant was provoked",
+      "Defendant acted under duress"
+    ],
+    "answer": 0,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "What is the main limitation of using provocation as a defence?",
+    "choices": [
+      "It results in automatic dismissal",
+      "It is a full defence",
+      "It only reduces damages",
+      "It only applies in criminal law"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "What does 'offensive' mean in the context of battery?",
+    "choices": [
+      "Criminally punishable",
+      "Illegal under all circumstances",
+      "Unwelcome or inappropriate, even if not harmful",
+      "Must involve visible injury"
+    ],
+    "answer": 2,
+    "chapter": "Chapter 25"
+  },
+  {
+    "question": "A person breaks a window to rescue a child trapped in a hot car. What defence might they raise?",
+    "choices": [
+      "Provocation",
+      "Necessity",
+      "Consent",
+      "Duress"
+    ],
+    "answer": 1,
+    "chapter": "Chapter 25"
+  }
+]
